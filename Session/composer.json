@@ -1,0 +1,13 @@
+{
+    "name": "swayamshah16/fullprojectinphp",
+    "description": "Full Project in PHP",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    }
+}
